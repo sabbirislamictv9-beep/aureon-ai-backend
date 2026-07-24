@@ -1,0 +1,15 @@
+{
+  "name": "aureon-ai-backend",
+  "version": "1.0.0",
+  "description": "Headless Backend for Aureon AI with Triple Sheets Architecture & In-Memory Caching",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
